@@ -43,7 +43,6 @@ Os exercícios Invoice e Empregado estão organizados no repositório.
 
 - Java
 - Visual Studio Code
-- Git
 - GitHub
 
 ## 👨‍💻 Autor

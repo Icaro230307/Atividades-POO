@@ -1,46 +1,50 @@
 
 # ☕ Atividades de Programação Orientada a Objetos (POO)
 
-Repositório destinado às atividades e aos exercícios desenvolvidos na disciplina de **Programação Orientada a Objetos**, utilizando a linguagem Java.
+Repositório destinado à organização e ao armazenamento das atividades desenvolvidas durante a disciplina de **Programação Orientada a Objetos (POO)**, utilizando a linguagem Java.
 
 ## 🎯 Objetivo
 
-Registrar o aprendizado e a evolução prática nos estudos de Java, aplicando conceitos fundamentais da programação orientada a objetos.
+Registrar a evolução prática nos estudos de Java, aplicando conceitos fundamentais da programação orientada a objetos por meio de exercícios, atividades e projetos acadêmicos.
 
-## 📚 Atividades
+## 📚 Atividades da disciplina
 
-### 📌 Lista de Exercícios 01
+### 1. Listas de Exercícios
 
-**Conteúdos abordados:**
-- Classes e objetos;
-- Atributos e métodos;
-- Construtores;
-- Encapsulamento;
-- Getters e Setters;
-- Validação de dados;
-- Manipulação de atributos e cálculos.
+| Atividade | Descrição | Status |
+|---|---|---|
+| [Lista de Exercícios 01](https://unijorge.instructure.com/courses/52647/assignments/161403) | Exercícios Invoice e Empregado. | ✅ Concluída |
+| [Lista de Exercício 2](https://unijorge.instructure.com/courses/52647/assignments/161693) | Lista de exercícios de POO. | ⏳ Pendente |
+| [Lista de Exercícios 06](https://unijorge.instructure.com/courses/52647/assignments/164066) | Lista de exercícios de POO. | ⏳ Pendente |
+| [Lista de Exercícios 07](https://unijorge.instructure.com/courses/52647/assignments/164193) | Lista de exercícios de POO. | ⏳ Pendente |
+| [Lista de Revisão AV1](https://unijorge.instructure.com/courses/52647/assignments/161761) | Exercícios de revisão para avaliação. | ⏳ Pendente |
 
-**Exercícios desenvolvidos:**
+### 2. Exercícios em sala de aula
 
-**1. Invoice**
-- Representação de uma fatura.
-- Armazenamento do número do item, descrição, quantidade e preço.
-- Validação de quantidade e preço.
-- Cálculo do valor total da fatura.
+| Atividade | Descrição | Status |
+|---|---|---|
+| [Exercício Slide Aula 2](https://unijorge.instructure.com/courses/52647/assignments/161404) | Exercícios propostos durante a aula. | ⏳ Pendente |
+| [Exercícios - Herança e Polimorfismo](https://unijorge.instructure.com/courses/52647/assignments/164194) | Prática de herança e polimorfismo em Java. | ⏳ Pendente |
+| [Exercício - Polimorfismo](https://unijorge.instructure.com/courses/52647/assignments/164195) | Aplicação dos conceitos de polimorfismo. | ⏳ Pendente |
 
-**2. Empregado**
-- Representação de funcionários.
-- Armazenamento de nome, sobrenome e salário mensal.
-- Cálculo do salário anual.
-- Aplicação de reajuste salarial de 10%.
+### 3. Projetos
+
+| Atividade | Descrição | Status |
+|---|---|---|
+| [Projeto de Extensão Urna Cidadã](https://unijorge.instructure.com/courses/52647/assignments/161723) | Desenvolvimento de um sistema de votação utilizando Java e POO. | 🔄 Em desenvolvimento |
+
+## 📌 Lista de Exercícios 01 — Arquivos
+
+Os exercícios Invoice e Empregado estão organizados no repositório.
+
+- [Acessar arquivos da Lista de Exercícios 01](https://github.com/Icaro230307/Atividades-POO/tree/main/Invoice%20Java/Atividade%20Empregado)
 
 ## 🛠️ Tecnologias utilizadas
 
 - Java
 - Visual Studio Code
+- Git
 - GitHub
-
-```
 
 ## 👨‍💻 Autor
 
@@ -48,4 +52,4 @@ Registrar o aprendizado e a evolução prática nos estudos de Java, aplicando c
 
 Estudante de Ciência da Computação.
 
-Repositório acadêmico destinado à organização das atividades e ao acompanhamento da evolução nos estudos de Programação Orientada a Objetos com Java.
+Repositório acadêmico desenvolvido para documentar as atividades, projetos e a evolução dos conhecimentos em Programação Orientada a Objetos utilizando Java.

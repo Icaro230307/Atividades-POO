@@ -33,9 +33,7 @@ Registrar a evolução prática nos estudos de Java, aplicando conceitos fundame
 |---|---|---|
 | [Projeto de Extensão Urna Cidadã](https://unijorge.instructure.com/courses/52647/assignments/161723) | Desenvolvimento de um sistema de votação utilizando Java e POO. | 🔄 Em desenvolvimento |
 
-## 📌 Lista de Exercícios 01 — Arquivos
-
-Os exercícios Invoice e Empregado estão organizados no repositório.
+📂 Arquivos das Atividades
 
 - [Acessar arquivos da Lista de Exercícios 01](https://github.com/Icaro230307/Atividades-POO/tree/main/Invoice%20Java/Atividade%20Empregado)
 - [Acessar arquivos da Lista de Exercícios 02](https://github.com/Icaro230307/Atividades-POO/tree/main/Lista%20de%20Exerc%C3%ADcio%202)
@@ -46,7 +44,9 @@ Os exercícios Invoice e Empregado estão organizados no repositório.
 - Java
 - Visual Studio Code
 - GitHub
-- Copilot
+
+## 🛠️ Ferramentas de apoio
+- Microsoft Copilot
 
 ## 👨‍💻 Autor
 

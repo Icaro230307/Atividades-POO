@@ -17,7 +17,7 @@ Registrar a evolução prática nos estudos de Java, aplicando conceitos fundame
 | [Lista de Exercícios 02](https://unijorge.instructure.com/courses/52647/assignments/161693) | Sistema de Conta Bancária. | ✅ Concluída |
 | [Lista de Exercícios 06](https://unijorge.instructure.com/courses/52647/assignments/164066) | Generalização e Herança. | ✅ Concluída |
 | [Lista de Exercícios 07](https://unijorge.instructure.com/courses/52647/assignments/164193) | Lista de exercícios de POO. | ✅ Concluída |
-| [Lista de Revisão AV1](https://unijorge.instructure.com/courses/52647/assignments/161761) | Exercícios de revisão para avaliação. | ⏳ Pendente |
+| [Lista de Revisão AV1](https://unijorge.instructure.com/courses/52647/assignments/161761) | Exercícios de revisão para avaliação. | ✅ Concluída |
 
 ### 2. Exercícios em sala de aula
 

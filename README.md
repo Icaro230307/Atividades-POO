@@ -26,7 +26,7 @@ Registrar a evolução prática nos estudos de Java, aplicando conceitos fundame
 |---|---|---|
 | [Exercício Slide Aula 2](https://unijorge.instructure.com/courses/52647/assignments/161404) | Exercícios propostos durante a aula. | ✅ Concluída |
 | [Exercícios - Herança e Polimorfismo](https://unijorge.instructure.com/courses/52647/assignments/164194) | Prática de herança e polimorfismo em Java. | ⏳ Pendente |
-| [Exercício - Polimorfismo](https://unijorge.instructure.com/courses/52647/assignments/164195) | Aplicação dos conceitos de polimorfismo. | ⏳ Pendente |
+| [Exercício  Polimorfismo](https://unijorge.instructure.com/courses/52647/assignments/164195) | Aplicação dos conceitos de polimorfismo. | ⏳ Pendente |
 
 ### 3. Projetos
 
@@ -40,7 +40,8 @@ Registrar a evolução prática nos estudos de Java, aplicando conceitos fundame
 - [Acessar arquivos da Lista de Exercícios 02](https://github.com/Icaro230307/Atividades-POO/tree/main/Lista%20de%20Exerc%C3%ADcio%202)
 - [Acessar arquivos da Lista de Exercícios 06](https://github.com/Icaro230307/Atividades-POO/tree/main/Lista%20de%20Exerc%C3%ADcio%206/ListaExercicio6/src)
 - [Acessar arquivos da Lista de Exercícios 07](https://github.com/Icaro230307/Atividades-POO/tree/main/Lista%20de%20Exerc%C3%ADcio%207/Pessoa/src)
-- [Acessar arquivos do Exercício Slide Aula 2](https://github.com/Icaro230307/Atividades-POO/tree/main/Lista%20de%20Exerc%C3%ADcio%207/Pessoa/src)
+- [Acessar arquivos do Exercício Slide Aula 2](https://github.com/Icaro230307/Atividades-POO/tree/main/Lista%20de%20Exerc%C3%ADcio%20-%20Ponto%20e%20C%C3%ADrculo/ListaExercicio/src)
+- [Acessar arquivos da Lista de Revisão AV1](https://github.com/Icaro230307/Atividades-POO/blob/main/Lista%20de%20Revis%C3%A3o%20AV1.pdf)
 
 ## 🛠️ Tecnologias utilizadas
 

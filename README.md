@@ -16,7 +16,7 @@ Registrar a evolução prática nos estudos de Java, aplicando conceitos fundame
 | [Lista de Exercícios 01](https://unijorge.instructure.com/courses/52647/assignments/161403) | Exercícios Invoice e Empregado. | ✅ Concluída |
 | [Lista de Exercícios 02](https://unijorge.instructure.com/courses/52647/assignments/161693) | Sistema de Conta Bancária. | ✅ Concluída |
 | [Lista de Exercícios 06](https://unijorge.instructure.com/courses/52647/assignments/164066) | Generalização e Herança. | ✅ Concluída |
-| [Lista de Exercícios 07](https://unijorge.instructure.com/courses/52647/assignments/164193) | Lista de exercícios de POO. | ⏳ Pendente |
+| [Lista de Exercícios 07](https://unijorge.instructure.com/courses/52647/assignments/164193) | Lista de exercícios de POO. | ✅ Concluída |
 | [Lista de Revisão AV1](https://unijorge.instructure.com/courses/52647/assignments/161761) | Exercícios de revisão para avaliação. | ⏳ Pendente |
 
 ### 2. Exercícios em sala de aula
@@ -38,6 +38,7 @@ Registrar a evolução prática nos estudos de Java, aplicando conceitos fundame
 - [Acessar arquivos da Lista de Exercícios 01](https://github.com/Icaro230307/Atividades-POO/tree/main/Invoice%20Java/Atividade%20Empregado)
 - [Acessar arquivos da Lista de Exercícios 02](https://github.com/Icaro230307/Atividades-POO/tree/main/Lista%20de%20Exerc%C3%ADcio%202)
 - [Acessar arquivos da Lista de Exercícios 06](https://github.com/Icaro230307/Atividades-POO/tree/main/Lista%20de%20Exerc%C3%ADcio%206/ListaExercicio6/src)
+- [Acessar arquivos da Lista de Exercícios 07](https://github.com/Icaro230307/Atividades-POO/tree/main/Lista%20de%20Exerc%C3%ADcio%207/Pessoa/src)
 
 ## 🛠️ Tecnologias utilizadas
 

@@ -18,6 +18,7 @@ Registrar a evolução prática nos estudos de Java, aplicando conceitos fundame
 | [Lista de Exercícios 06](https://unijorge.instructure.com/courses/52647/assignments/164066) | Generalização e Herança. | ✅ Concluída |
 | [Lista de Exercícios 07](https://unijorge.instructure.com/courses/52647/assignments/164193) | Lista de exercícios de POO. | ✅ Concluída |
 | [Lista de Revisão AV1](https://unijorge.instructure.com/courses/52647/assignments/161761) | Exercícios de revisão para avaliação. | ✅ Concluída |
+| [Lista de Revisão AV2](https://unijorge.instructure.com/courses/52647/assignments/164332) | Exercícios de revisão para avaliação. | ⏳ Pendente |
 
 ### 2. Exercícios em sala de aula
 
